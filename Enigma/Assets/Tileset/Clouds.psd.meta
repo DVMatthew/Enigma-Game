@@ -3,6 +3,7 @@ guid: ea12fcd99ac9b3140872b1602074a6ca
 TextureImporter:
   fileIDToRecycleName:
     21300000: Clouds_0
+    21300002: Clouds_1
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -93,13 +94,33 @@ TextureImporter:
         width: 130
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 91510e8e342a14e4d8204b0423bf4cf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 632
+        width: 130
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b41899b307ce74dbd420a082185ff9
       vertices: []
       indices: 
       edges: []
